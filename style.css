@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.text-green{
+    color: #21B573;;
+}
+img{
+    width: 100%;
+}
+.logo{
+    width: 30%;
+}
+.button{
+    color: white;
+    background: #21B573;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+    margin-left: 10px;
+}
+.start{
+    width: 130px;
+}
+.section-1{
+    background: #F0FFF0;
+    height: 576px;
+}
+.boxx{
+    margin-top: 100px;
+    height: 250px;
+    border-radius: 10px;
+    text-align: center;
+    margin-inline: 10px;
+    width: 23%;
+}
+.icon-pic{
+     width: 50px;
+     margin-top: 20px;   
+ }
+ .course{
+     margin-top: 150px;
+     text-align: center;
+ }
+ .card-deck{
+     margin-top: 30px;
+ }
+ .row{
+     margin-top: 50px;
+ }
+ .man{
+     width: 80px;
+     margin-left: 80px;
+ }
+ .footer{
+    background: #282531;
+    margin-top: 100px;
+ }
+ .footer-text{
+     color: white;
+     margin-top: 30px;
+ }
+.bold{
+    font-weight:700;
+}
+h6{
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
